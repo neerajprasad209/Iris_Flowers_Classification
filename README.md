@@ -1,3 +1,5 @@
 # Iris_Flowers_Classification
 * Reading the Dataset
-* Seperate the X and Y Features
+* Separate the X and Y Features
+* Apply Preprocessing pipeline on X features
+* 
